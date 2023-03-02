@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">InternalStorage</string>
+    <string name="download">download</string>
 </resources>
